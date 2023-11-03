@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4745c08c-025e-419a-a35b-0ade12cb7d85" name="Changes" comment="first update">
-      <change afterPath="$PROJECT_DIR$/src/ForLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MultiplicationTable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NestedLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BreakAndContinue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Continue.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MultiplicationTable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MultiplicationTable.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,9 +50,16 @@
     &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.MultiplicationTable">
-    <configuration name="DoWhileLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DoWhileLoop" />
+  <component name="RunManager" selected="Application.Continue">
+    <configuration name="BreakAndContinue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BreakAndContinue" />
+      <module name="Chapter 5" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Continue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Continue" />
       <module name="Chapter 5" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -79,20 +86,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WhileLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="WhileLoop" />
-      <module name="Chapter 5" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MultiplicationTable" />
+        <item itemvalue="Application.Continue" />
+        <item itemvalue="Application.BreakAndContinue" />
         <item itemvalue="Application.NestedLoop" />
+        <item itemvalue="Application.MultiplicationTable" />
         <item itemvalue="Application.ForLoop" />
-        <item itemvalue="Application.DoWhileLoop" />
-        <item itemvalue="Application.WhileLoop" />
       </list>
     </recent_temporary>
   </component>
