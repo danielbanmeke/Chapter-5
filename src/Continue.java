@@ -12,7 +12,8 @@ public class Continue {
             if(n < 1 || n > 10)
                 continue;
 
-            System.out.println(n + " is between 1 and 10");
+            System.out.println(n + " is between 1 and 10");1
+
         }
     }
 }
