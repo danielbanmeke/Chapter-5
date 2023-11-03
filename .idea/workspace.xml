@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4745c08c-025e-419a-a35b-0ade12cb7d85" name="Changes" comment="first update">
-      <change afterPath="$PROJECT_DIR$/src/DecreasingEvenNumbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IncreasingEvenNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IncreasingEvenNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DecreasingOddNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IncreasingOddNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DecreasingEvenNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DecreasingEvenNumbers.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,13 +51,6 @@
   }
 }</component>
   <component name="RunManager" selected="Application.DecreasingEvenNumbers">
-    <configuration name="BreakAndContinue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BreakAndContinue" />
-      <module name="Chapter 5" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Continue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Continue" />
       <module name="Chapter 5" />
@@ -70,6 +65,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="DecreasingOddNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DecreasingOddNumber" />
+      <module name="Chapter 5" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="IncreasingEvenNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="IncreasingEvenNumbers" />
       <module name="Chapter 5" />
@@ -77,8 +79,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NestedLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NestedLoop" />
+    <configuration name="IncreasingOddNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IncreasingOddNumbers" />
       <module name="Chapter 5" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -87,10 +89,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.DecreasingEvenNumbers" />
+        <item itemvalue="Application.DecreasingOddNumber" />
+        <item itemvalue="Application.IncreasingOddNumbers" />
         <item itemvalue="Application.IncreasingEvenNumbers" />
         <item itemvalue="Application.Continue" />
-        <item itemvalue="Application.BreakAndContinue" />
-        <item itemvalue="Application.NestedLoop" />
       </list>
     </recent_temporary>
   </component>
