@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4745c08c-025e-419a-a35b-0ade12cb7d85" name="Changes" comment="first update">
-      <change afterPath="$PROJECT_DIR$/src/Sum2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StrictDivisorsSum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DecreasingEvenNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DecreasingEvenNumbers.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
