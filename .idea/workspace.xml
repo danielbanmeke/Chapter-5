@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4745c08c-025e-419a-a35b-0ade12cb7d85" name="Changes" comment="first update">
-      <change afterPath="$PROJECT_DIR$/src/PrimeNumbers.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PrimeNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PrimeNumbers.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +48,7 @@
     &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.StrictDivisorsSum">
+  <component name="RunManager" selected="Application.PrimeNumbers">
     <configuration name="DecreasingEvenNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DecreasingEvenNumbers" />
       <module name="Chapter 5" />
@@ -63,8 +63,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IncreasingOddNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="IncreasingOddNumbers" />
+    <configuration name="PrimeNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PrimeNumbers" />
       <module name="Chapter 5" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -86,11 +86,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PrimeNumbers" />
         <item itemvalue="Application.StrictDivisorsSum" />
         <item itemvalue="Application.Sum2" />
         <item itemvalue="Application.DecreasingEvenNumbers" />
         <item itemvalue="Application.DecreasingOddNumber" />
-        <item itemvalue="Application.IncreasingOddNumbers" />
       </list>
     </recent_temporary>
   </component>

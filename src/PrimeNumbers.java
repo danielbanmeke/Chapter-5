@@ -12,7 +12,7 @@ public class PrimeNumbers {
             if (n % i == 0)
                 sum += i;
 
-        System.out.println(sum + n);
+        System.out.println(sum == 1 ? "prime number" : "not prime number");
 
     }
 }
